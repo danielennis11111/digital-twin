@@ -1,0 +1,9 @@
+arcgis>=2.1.0
+geopandas>=0.10.0
+pyproj>=3.3.0
+rasterio>=1.2.10
+shapely>=1.8.0
+gdal>=3.4.0
+osmnx>=1.2.0
+numpy>=1.22.0
+pandas>=1.4.0
